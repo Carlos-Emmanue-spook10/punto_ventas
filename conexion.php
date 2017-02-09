@@ -2,7 +2,7 @@
 function conectar(){
 
     $user='comerc97';
-    $serv='comercializadorafreemex.com';
+    $serv='localhost';
     $pass='W18j7Jba6x';
     $base='comerc97_VentasCorp';
 
